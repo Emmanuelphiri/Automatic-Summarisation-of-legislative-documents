@@ -1,2 +1,3 @@
-# Automatic-Summarisation-of-legislative-documents
-legal document summarisation
+# Welcome to Zambian Automatic summarization model 
+
+ 
